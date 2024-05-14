@@ -10,4 +10,4 @@
 Vitorinha1002/Vitorinha1002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src ="https://pin.it/5XIE8pmiH">
+<img src ="https://i.pinimg.com/originals/39/21/60/3921603b4d8153e8b192dfebdba06b0a.jpg">
